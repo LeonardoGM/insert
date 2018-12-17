@@ -1,0 +1,29 @@
+.directBtn{
+    width: 178px;
+}
+.directForm{
+    border-radius: 20px;
+    border-color: #000000;
+    background-color: #dee2e6;
+    padding: 20px;
+}
+.directFont{
+    font-family: 'Muli', sans-serif;
+}
+
+.tituloTabla{
+	border: 2px solid #000000;
+	border-radius: 15px;
+	text-align: center;
+}
+
+ul li{
+	list-style: none;
+}
+
+.error{
+	color: red;
+}
+.sinColor{
+	color: inherit;
+}
